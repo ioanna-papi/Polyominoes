@@ -75,3 +75,4 @@ c = Counter(0)
 if arguments == 2:
     pprint.pprint(graph)
 print(countPolyominoes(graph,unt,num,p1,c))
+
