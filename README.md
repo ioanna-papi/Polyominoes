@@ -7,7 +7,7 @@ Alternitavely, visit: https://nbviewer.jupyter.org/github/dmst-algorithms-course
 # How to run the code:
     python count_fixed_polyominoes.py [-p] <n>
 
-In this command, the <n> parameter is the size of the polynomials. If the user gives the -p parameter before them, the graph we construct will be printed on the screen.
+In this command, the <n> parameter is the size of the polynominoes. If the user gives the -p parameter before them, the graph we construct will be printed on the screen.
 
-The output of the program will be the graph we construct to solve the problem and the number of free polynomials. 
+The output of the program will be the graph we construct to solve the problem and the number of free polynomnoes. 
   
